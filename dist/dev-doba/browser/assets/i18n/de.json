@@ -1,0 +1,1830 @@
+{
+  "header": {
+    "language": "DE",
+    "home": "Heim",
+    "about_us": "Über uns",
+    "services": "Dienstleistungen",
+    "portfolio": "Portfolio",
+    "contacts": "Kontaktieren Sie uns",
+    "faq": "Häufige Fragen"
+  },
+  "logo": {
+    "label": "Agentur"
+  },
+  "footer": {
+    "contact_us_btn": "Kontaktieren Sie uns",
+    "copyright": "Alle Rechte vorbehalten"
+  },
+  "hero_section": {
+    "title": [
+      { "text": "Entwicklung ", "highlight": true },
+      { "text": "digitaler Produkte ", "highlight": false },
+      { "text": "für geschäftliche Anforderungen", "highlight": true }
+    ],
+    "description": "Wir konzipieren und realisieren Weblösungen, die Unternehmen dabei helfen, Umsatz zu generieren, zu skalieren und Prozesse zu automatisieren — von der Idee bis zu messbaren Ergebnissen.",
+    "download_presentation": "Präsentation herunterladen"
+  },
+  "services_section": {
+    "title": [
+      { "text": "Der komplette ", "highlight": true },
+      { "text": "digitale Entwicklungszyklus", "highlight": false }
+    ],
+    "description": "Wir realisieren digitale Produkte entlang klarer Geschäftsziele: Konzeption, Design, Entwicklung, Wachstum und kontinuierliche Weiterentwicklung. Nichts Überflüssiges — nur das, was Ergebnisse schafft.",
+    "services": {
+      "1": {
+        "title": "Design & UX",
+        "subtitle": "Wir gestalten Struktur, Nutzerführung und visuelles Design so, dass das Produkt verständlich, benutzerfreundlich und konversionsstark ist.",
+        "tags": ["UX/UI", "Produktdesign", "Mobile Design", "Prototyping"]
+      },
+      "2": {
+        "title": "Entwicklung",
+        "subtitle": "Wir entwickeln stabile und skalierbare Webprodukte für reale Geschäftsanforderungen und steigende Lasten.",
+        "tags": [
+          "SaaS",
+          "Webentwicklung",
+          "Onlineshops",
+          "Landingpages",
+          "Unternehmenswebsites",
+          "CRM",
+          "Integrationen"
+        ]
+      },
+      "3": {
+        "title": "Marketing & Wachstum",
+        "subtitle": "Wir richten Produkte auf die Gewinnung der richtigen Zielgruppe und nachhaltiges Wachstum aus.",
+        "tags": ["SEO", "Analytics", "Conversion-Optimierung"]
+      },
+      "4": {
+        "title": "Support & Weiterentwicklung",
+        "subtitle": "Wir optimieren und entwickeln Produkte nach dem Launch weiter, um ihren Geschäftsnutzen zu maximieren.",
+        "tags": ["Refactoring", "Optimierung", "Skalierung", "Support"]
+      }
+    }
+  },
+  "about-result_section": {
+    "title": [
+      { "text": "Ein ergebnisorientiertes ", "highlight": false },
+      { "text": "Studio", "highlight": true }
+    ],
+    "description": "Wir helfen Unternehmen und Startups dabei, Ideen in funktionierende digitale Produkte zu verwandeln, die konkrete Geschäftsprobleme lösen — und nicht nur live gehen.",
+    "solutions_created": "Realisierte Lösungen",
+    "specialists_in_the_team": "Spezialisten im Team",
+    "years_of_experience_label": "Jahre",
+    "years_of_experience": "kommerzielle Erfahrung",
+    "customer_ratings": "Durchschnittliche Kundenbewertung",
+    "read_more_btn": "Mehr erfahren"
+  },
+  "call-actions_section": {
+    "title": [
+      { "text": "Haben Sie eine Idee ", "highlight": true },
+      { "text": "oder eine Aufgabe? ", "highlight": false },
+      { "text": "Wir schlagen ", "highlight": true },
+      { "text": "das optimale Format, realistische Zeitrahmen und den passenden Ansatz vor — ", "highlight": false },
+      { "text": "klar ", "highlight": true },
+      { "text": "ohne unnötige Worte oder Verkaufsdruck.", "highlight": false }
+    ]
+  },
+  "contact-us_section": {
+    "title": [
+      { "text": "Lassen Sie uns ", "highlight": false },
+      { "text": "über ", "highlight": true },
+      { "text": "Ihr Projekt sprechen", "highlight": false }
+    ],
+    "description": "Haben Sie Fragen oder benötigen Sie weitere Informationen? ",
+    "success_message": "Vielen Dank, wir melden uns in Kürze bei Ihnen. Bleiben Sie dran.",
+    "another-way": "Möchten Sie auf einem anderen Weg mit uns in Kontakt treten?",
+    "field": {
+      "name": { "label": "Vor- und Nachname", "placeholder": "Geben Sie Ihren Vor- und Nachnamen ein" },
+      "email": { "label": "E-Mail-Adresse", "placeholder": "Geben Sie Ihre E-Mail-Adresse ein" },
+      "message": { "label": "Nachricht", "placeholder": "Ihre Nachricht" },
+      "phone": { "label": "Telefonnummer", "placeholder": "Geben Sie die Telefonnummer ein" },
+      "instagram": { "label": "Instagram", "placeholder": "Gib deinen Instagram-Benutzernamen ein" },
+      "facebook": { "label": "Facebook", "placeholder": "Gib deinen Facebook-Benutzernamen ein" },
+      "telegram": { "label": "Telegram", "placeholder": "Gib deinen Telegram-Benutzernamen ein" }
+    },
+    "submit_btn": "Nachricht senden"
+  },
+  "portfolio_section": {
+    "title": "Portfolio",
+    "tabs": ["CRM-Systeme", "Armaturenbrett", "Mobile App", "Krypto"],
+    "card_btn": "Fallstudie ansehen",
+    "view_all_btn": "Alle Fälle",
+    "categories": ["CRM", "Armaturenbrett", "Mobile App", "Krypto"],
+    "isInDevelopment": "IN ENTWICKLUNG",
+    "no_cards_placeholder": "Auf dieser Registerkarte sind keine Karten vorhanden.",
+    "cases": [
+      {
+        "id": "Krypto-Austauschplattform",
+        "category": "Krypto",
+        "img": "/assets/images/temperary_image.png",
+        "isInDevelopment": false,
+        "tags": ["CRM", "Automatisierung", "Integrationen", "Analytik", "SaaS", "Workflow-Management"],
+        "preview": {
+          "title": [
+            {
+              "text": "Krypto ",
+              "highlight": true
+            },
+            {
+              "text": "Austauschplattform",
+              "highlight": false
+            }
+          ],
+          "shortDescription": "Webbasierter Kryptowährungsaustausch mit sicherer Vermögensumwandlung, Echtzeitkursen und einem optimierten Benutzererlebnis, das auf schnelle Transaktionen und Zuverlässigkeit ausgerichtet ist."
+        },
+        "page": {
+          "title": [
+            {
+              "text": "Krypto ",
+              "highlight": true
+            },
+            {
+              "text": "Austauschplattform",
+              "highlight": false
+            }
+          ],
+          "img": "/assets/images/temperary_image.png",
+          "description": "Webbasierter Kryptowährungsaustausch mit sicherer Vermögensumwandlung, Echtzeitkursen und einem optimierten Benutzererlebnis, das auf schnelle Transaktionen und Zuverlässigkeit ausgerichtet ist",
+          "website": {
+            "label": "abra.agency.com",
+            "url": "https://abra.agency/"
+          },
+          "metrics": [
+            {
+              "title": "Dienstleistungen",
+              "label": "UX/UI-Design, Webentwicklung"
+            },
+            {
+              "title": "Lieferzeit",
+              "label": "6 Monate"
+            },
+            {
+              "title": "Einführungsjahr",
+              "label": "2022"
+            }
+          ],
+          "description_subsection": {
+            "title": "Beschreibung",
+            "list": [
+              {
+                "icon": "checklist",
+                "title": "Aufgaben",
+                "list": [
+                  "Führen Sie externe und interne Optimierungen für weitere Werbung bei Google durch.",
+                  "Richten Sie praktische Filter und Sortierungen für Käufer ein.",
+                  "Präsentieren Sie Produkte im Internet durch ein schlichtes Design, bei dem das Angebot selbst im Mittelpunkt steht."
+                ]
+              },
+              {
+                "icon": "extension",
+                "title": "Lösung",
+                "list": [
+                  "Entwicklung einer Website mit einzigartigem Design und Funktionalität eines Online-Shops, die eine intuitive und schnellstmögliche Navigation durch alle Bereiche ermöglicht;",
+                  "Erstellt eine sorgfältig durchdachte Struktur von Menüabschnitten, praktisches Filtern, Sortieren und Bestellen;",
+                  "Führte eine Reihe von Arbeiten zur externen und internen Optimierung durch, um die Website in den organischen Suchergebnissen von Google weiter zu bewerben."
+                ]
+              },
+              {
+                "icon": "settings_ethernet",
+                "title": "Projektfunktionalität",
+                "list": [
+                  "Praktisches Bedienfeld vor Ort;",
+                  "Site-Suche und Filterung von Produkten nach allen Merkmalen;",
+                  "Feedback-Formular, Produktbestellformular, Warenkorb;",
+                  "Möglichkeit zur Auswahl der Liefer- und Zahlungsmethoden."
+                ]
+              }
+            ]
+          },
+          "time_breakdown_subsection": {
+            "title": [
+              {
+                "text": "Zeit ",
+                "highlight": false
+              },
+              {
+                "text": "Abbauen",
+                "highlight": true
+              }
+            ],
+            "list": [
+              {
+                "type": "Anforderungsforschung",
+                "percent": 15
+              },
+              {
+                "type": "Tests und Qualitätssicherung",
+                "percent": 8
+              },
+              {
+                "type": "Architekturdesign",
+                "percent": 7
+              },
+              {
+                "type": "Einrichtung der Bereitstellung und Umgebung",
+                "percent": 6
+              },
+              {
+                "type": "UI/UX-Design",
+                "percent": 45
+              },
+              {
+                "type": "Integrationen von Drittanbietern",
+                "percent": 3
+              },
+              {
+                "type": "Frontend-Entwicklung",
+                "percent": 40
+              },
+              {
+                "type": "Backend-Entwicklung",
+                "percent": 30
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Echtzeit-Krypto-Handelsplattform",
+        "category": "Krypto",
+        "img": "/assets/images/temperary_image.png",
+        "isInDevelopment": false,
+        "tags": ["CRM", "Automatisierung", "Integrationen", "Analytik", "SaaS", "Workflow-Management"],
+        "preview": {
+          "title": [
+            {
+              "text": "Echtzeit",
+              "highlight": false
+            },
+            {
+              "text": " Krypto-Handel ",
+              "highlight": true
+            },
+            {
+              "text": "Plattform",
+              "highlight": false
+            }
+          ],
+          "shortDescription": "Eine Echtzeit-Tracking- und Handelsplattform für Kryptowährungen mit interaktiven Diagrammen, fortschrittlichen Markttools und Live-Datenaktualisierungen für fundierte Handelsentscheidungen."
+        },
+        "page": {
+          "title": [
+            {
+              "text": "Echtzeit",
+              "highlight": false
+            },
+            {
+              "text": " Krypto-Handel ",
+              "highlight": true
+            },
+            {
+              "text": "Plattform",
+              "highlight": false
+            }
+          ],
+          "img": "/assets/images/temperary_image.png",
+          "description": "Eine Echtzeit-Tracking- und Handelsplattform für Kryptowährungen mit interaktiven Diagrammen, fortschrittlichen Markttools und Live-Datenaktualisierungen für fundierte Handelsentscheidungen.",
+          "website": {
+            "label": "abra.agency.com",
+            "url": "https://abra.agency/"
+          },
+          "metrics": [
+            {
+              "title": "Dienstleistungen",
+              "label": "UX/UI-Design, Webentwicklung"
+            },
+            {
+              "title": "Lieferzeit",
+              "label": "6 Monate"
+            },
+            {
+              "title": "Einführungsjahr",
+              "label": "2022"
+            }
+          ],
+          "description_subsection": {
+            "title": "Beschreibung",
+            "list": [
+              {
+                "icon": "checklist",
+                "title": "Aufgaben",
+                "list": [
+                  "Führen Sie externe und interne Optimierungen für weitere Werbung bei Google durch.",
+                  "Richten Sie praktische Filter und Sortierungen für Käufer ein.",
+                  "Präsentieren Sie Produkte im Internet durch ein schlichtes Design, bei dem das Angebot selbst im Mittelpunkt steht."
+                ]
+              },
+              {
+                "icon": "extension",
+                "title": "Lösung",
+                "list": [
+                  "Entwicklung einer Website mit einzigartigem Design und Funktionalität eines Online-Shops, die eine intuitive und schnellstmögliche Navigation durch alle Bereiche ermöglicht;",
+                  "Erstellt eine sorgfältig durchdachte Struktur von Menüabschnitten, praktisches Filtern, Sortieren und Bestellen;",
+                  "Führte eine Reihe von Arbeiten zur externen und internen Optimierung durch, um die Website in den organischen Suchergebnissen von Google weiter zu bewerben."
+                ]
+              },
+              {
+                "icon": "settings_ethernet",
+                "title": "Projektfunktionalität",
+                "list": [
+                  "Praktisches Bedienfeld vor Ort;",
+                  "Site-Suche und Filterung von Produkten nach allen Merkmalen;",
+                  "Feedback-Formular, Produktbestellformular, Warenkorb;",
+                  "Möglichkeit zur Auswahl der Liefer- und Zahlungsmethoden."
+                ]
+              }
+            ]
+          },
+          "time_breakdown_subsection": {
+            "title": [
+              {
+                "text": "Zeit ",
+                "highlight": false
+              },
+              {
+                "text": "Abbauen",
+                "highlight": true
+              }
+            ],
+            "list": [
+              {
+                "type": "Anforderungsforschung",
+                "percent": 15
+              },
+              {
+                "type": "Tests und Qualitätssicherung",
+                "percent": 8
+              },
+              {
+                "type": "Architekturdesign",
+                "percent": 7
+              },
+              {
+                "type": "Einrichtung der Bereitstellung und Umgebung",
+                "percent": 6
+              },
+              {
+                "type": "UI/UX-Design",
+                "percent": 45
+              },
+              {
+                "type": "Integrationen von Drittanbietern",
+                "percent": 3
+              },
+              {
+                "type": "Frontend-Entwicklung",
+                "percent": 40
+              },
+              {
+                "type": "Backend-Entwicklung",
+                "percent": 30
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Museums-Website",
+        "category": "Armaturenbrett",
+        "img": "/assets/images/temperary_image.png",
+        "isInDevelopment": true,
+        "tags": ["CRM", "Automatisierung", "Integrationen", "Analytik", "SaaS", "Workflow-Management"],
+        "preview": {
+          "title": [
+            {
+              "text": "Museum ",
+              "highlight": true
+            },
+            {
+              "text": "Webseite",
+              "highlight": false
+            }
+          ],
+          "shortDescription": "Eine mehrseitige Website für ein Museum, die Ausstellungen, Veranstaltungen und historische Inhalte mit einem starken Fokus auf Zugänglichkeit und visuellem Geschichtenerzählen präsentieren soll."
+        },
+        "page": {
+          "title": [
+            {
+              "text": "Museum ",
+              "highlight": true
+            },
+            {
+              "text": "Webseite",
+              "highlight": false
+            }
+          ],
+          "img": "/assets/images/temperary_image.png",
+          "description": "Eine mehrseitige Website für ein Museum, die Ausstellungen, Veranstaltungen und historische Inhalte mit einem starken Fokus auf Zugänglichkeit und visuellem Geschichtenerzählen präsentieren soll",
+          "website": {
+            "label": "abra.agency.com",
+            "url": "https://abra.agency/"
+          },
+          "metrics": [
+            {
+              "title": "Dienstleistungen",
+              "label": "UX/UI-Design, Webentwicklung"
+            },
+            {
+              "title": "Lieferzeit",
+              "label": "6 Monate"
+            },
+            {
+              "title": "Einführungsjahr",
+              "label": "2022"
+            }
+          ],
+          "description_subsection": {
+            "title": "Beschreibung",
+            "list": [
+              {
+                "icon": "checklist",
+                "title": "Aufgaben",
+                "list": [
+                  "Führen Sie externe und interne Optimierungen für weitere Werbung bei Google durch.",
+                  "Richten Sie praktische Filter und Sortierungen für Käufer ein.",
+                  "Präsentieren Sie Produkte im Internet durch ein schlichtes Design, bei dem das Angebot selbst im Mittelpunkt steht."
+                ]
+              },
+              {
+                "icon": "extension",
+                "title": "Lösung",
+                "list": [
+                  "Entwicklung einer Website mit einzigartigem Design und Funktionalität eines Online-Shops, die eine intuitive und schnellstmögliche Navigation durch alle Bereiche ermöglicht;",
+                  "Erstellt eine sorgfältig durchdachte Struktur von Menüabschnitten, praktisches Filtern, Sortieren und Bestellen;",
+                  "Führte eine Reihe von Arbeiten zur externen und internen Optimierung durch, um die Website in den organischen Suchergebnissen von Google weiter zu bewerben."
+                ]
+              },
+              {
+                "icon": "settings_ethernet",
+                "title": "Projektfunktionalität",
+                "list": [
+                  "Praktisches Bedienfeld vor Ort;",
+                  "Site-Suche und Filterung von Produkten nach allen Merkmalen;",
+                  "Feedback-Formular, Produktbestellformular, Warenkorb;",
+                  "Möglichkeit zur Auswahl der Liefer- und Zahlungsmethoden."
+                ]
+              }
+            ]
+          },
+          "time_breakdown_subsection": {
+            "title": [
+              {
+                "text": "Zeit ",
+                "highlight": false
+              },
+              {
+                "text": "Abbauen",
+                "highlight": true
+              }
+            ],
+            "list": [
+              {
+                "type": "Anforderungsforschung",
+                "percent": 15
+              },
+              {
+                "type": "Tests und Qualitätssicherung",
+                "percent": 8
+              },
+              {
+                "type": "Architekturdesign",
+                "percent": 7
+              },
+              {
+                "type": "Einrichtung der Bereitstellung und Umgebung",
+                "percent": 6
+              },
+              {
+                "type": "UI/UX-Design",
+                "percent": 45
+              },
+              {
+                "type": "Integrationen von Drittanbietern",
+                "percent": 3
+              },
+              {
+                "type": "Frontend-Entwicklung",
+                "percent": 40
+              },
+              {
+                "type": "Backend-Entwicklung",
+                "percent": 30
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Kryptoflow",
+        "category": "Krypto",
+        "img": "/assets/images/temperary_image.png",
+        "isInDevelopment": false,
+        "tags": ["CRM", "Automatisierung", "Integrationen", "Analytik", "SaaS", "Workflow-Management"],
+        "preview": {
+          "title": [
+            {
+              "text": "Kryptoflow ",
+              "highlight": true
+            },
+            {
+              "text": "— Finanzkompetenzspiel",
+              "highlight": false
+            }
+          ],
+          "shortDescription": "Ein lehrreiches Webspiel, das Finanzkompetenz durch ein angepasstes Spielerlebnis vermittelt und interaktive Mechanismen mit realen Wirtschaftskonzepten kombiniert."
+        },
+        "page": {
+          "title": [
+            {
+              "text": "Kryptoflow ",
+              "highlight": true
+            },
+            {
+              "text": "— Finanzkompetenzspiel",
+              "highlight": false
+            }
+          ],
+          "img": "/assets/images/temperary_image.png",
+          "description": "Ein lehrreiches Webspiel, das Finanzkompetenz durch ein angepasstes Spielerlebnis vermittelt und interaktive Mechanismen mit realen Wirtschaftskonzepten kombiniert.",
+          "website": {
+            "label": "abra.agency.com",
+            "url": "https://abra.agency/"
+          },
+          "metrics": [
+            {
+              "title": "Dienstleistungen",
+              "label": "UX/UI-Design, Webentwicklung"
+            },
+            {
+              "title": "Lieferzeit",
+              "label": "6 Monate"
+            },
+            {
+              "title": "Einführungsjahr",
+              "label": "2022"
+            }
+          ],
+          "description_subsection": {
+            "title": "Beschreibung",
+            "list": [
+              {
+                "icon": "checklist",
+                "title": "Aufgaben",
+                "list": [
+                  "Führen Sie externe und interne Optimierungen für weitere Werbung bei Google durch.",
+                  "Richten Sie praktische Filter und Sortierungen für Käufer ein.",
+                  "Präsentieren Sie Produkte im Internet durch ein schlichtes Design, bei dem das Angebot selbst im Mittelpunkt steht."
+                ]
+              },
+              {
+                "icon": "extension",
+                "title": "Lösung",
+                "list": [
+                  "Entwicklung einer Website mit einzigartigem Design und Funktionalität eines Online-Shops, die eine intuitive und schnellstmögliche Navigation durch alle Bereiche ermöglicht;",
+                  "Erstellt eine sorgfältig durchdachte Struktur von Menüabschnitten, praktisches Filtern, Sortieren und Bestellen;",
+                  "Führte eine Reihe von Arbeiten zur externen und internen Optimierung durch, um die Website in den organischen Suchergebnissen von Google weiter zu bewerben."
+                ]
+              },
+              {
+                "icon": "settings_ethernet",
+                "title": "Projektfunktionalität",
+                "list": [
+                  "Praktisches Bedienfeld vor Ort;",
+                  "Site-Suche und Filterung von Produkten nach allen Merkmalen;",
+                  "Feedback-Formular, Produktbestellformular, Warenkorb;",
+                  "Möglichkeit zur Auswahl der Liefer- und Zahlungsmethoden."
+                ]
+              }
+            ]
+          },
+          "time_breakdown_subsection": {
+            "title": [
+              {
+                "text": "Zeit ",
+                "highlight": false
+              },
+              {
+                "text": "Abbauen",
+                "highlight": true
+              }
+            ],
+            "list": [
+              {
+                "type": "Anforderungsforschung",
+                "percent": 15
+              },
+              {
+                "type": "Tests und Qualitätssicherung",
+                "percent": 8
+              },
+              {
+                "type": "Architekturdesign",
+                "percent": 7
+              },
+              {
+                "type": "Einrichtung der Bereitstellung und Umgebung",
+                "percent": 6
+              },
+              {
+                "type": "UI/UX-Design",
+                "percent": 45
+              },
+              {
+                "type": "Integrationen von Drittanbietern",
+                "percent": 3
+              },
+              {
+                "type": "Frontend-Entwicklung",
+                "percent": 40
+              },
+              {
+                "type": "Backend-Entwicklung",
+                "percent": 30
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Admin-Panel-für-Krypto-Handelsplattform",
+        "category": "Krypto",
+        "img": "/assets/images/temperary_image.png",
+        "isInDevelopment": false,
+        "tags": ["CRM", "Automatisierung", "Integrationen", "Analytik", "SaaS", "Workflow-Management"],
+        "preview": {
+          "title": [
+            {
+              "text": "Admin-Panel für",
+              "highlight": true
+            },
+            {
+              "text": " Krypto-Handel ",
+              "highlight": false
+            },
+            {
+              "text": "Plattform",
+              "highlight": false
+            }
+          ],
+          "shortDescription": "Ein internes Verwaltungs-Dashboard zur Verwaltung von Benutzern, Vermögenswerten und Plattformvorgängen eines Echtzeit-Handelssystems für Kryptowährungen."
+        },
+        "page": {
+          "title": [
+            {
+              "text": "Admin-Panel für",
+              "highlight": true
+            },
+            {
+              "text": " Krypto-Handel ",
+              "highlight": false
+            },
+            {
+              "text": "Plattform",
+              "highlight": false
+            }
+          ],
+          "img": "/assets/images/temperary_image.png",
+          "description": "Ein internes Verwaltungs-Dashboard zur Verwaltung von Benutzern, Vermögenswerten und Plattformvorgängen eines Echtzeit-Handelssystems für Kryptowährungen.",
+          "website": {
+            "label": "abra.agency.com",
+            "url": "https://abra.agency/"
+          },
+          "metrics": [
+            {
+              "title": "Dienstleistungen",
+              "label": "UX/UI-Design, Webentwicklung"
+            },
+            {
+              "title": "Lieferzeit",
+              "label": "6 Monate"
+            },
+            {
+              "title": "Einführungsjahr",
+              "label": "2022"
+            }
+          ],
+          "description_subsection": {
+            "title": "Beschreibung",
+            "list": [
+              {
+                "icon": "checklist",
+                "title": "Aufgaben",
+                "list": [
+                  "Führen Sie externe und interne Optimierungen für weitere Werbung bei Google durch.",
+                  "Richten Sie praktische Filter und Sortierungen für Käufer ein.",
+                  "Präsentieren Sie Produkte im Internet durch ein schlichtes Design, bei dem das Angebot selbst im Mittelpunkt steht."
+                ]
+              },
+              {
+                "icon": "extension",
+                "title": "Lösung",
+                "list": [
+                  "Entwicklung einer Website mit einzigartigem Design und Funktionalität eines Online-Shops, die eine intuitive und schnellstmögliche Navigation durch alle Bereiche ermöglicht;",
+                  "Erstellt eine sorgfältig durchdachte Struktur von Menüabschnitten, praktisches Filtern, Sortieren und Bestellen;",
+                  "Führte eine Reihe von Arbeiten zur externen und internen Optimierung durch, um die Website in den organischen Suchergebnissen von Google weiter zu bewerben."
+                ]
+              },
+              {
+                "icon": "settings_ethernet",
+                "title": "Projektfunktionalität",
+                "list": [
+                  "Praktisches Bedienfeld vor Ort;",
+                  "Site-Suche und Filterung von Produkten nach allen Merkmalen;",
+                  "Feedback-Formular, Produktbestellformular, Warenkorb;",
+                  "Möglichkeit zur Auswahl der Liefer- und Zahlungsmethoden."
+                ]
+              }
+            ]
+          },
+          "time_breakdown_subsection": {
+            "title": [
+              {
+                "text": "Zeit ",
+                "highlight": false
+              },
+              {
+                "text": "Abbauen",
+                "highlight": true
+              }
+            ],
+            "list": [
+              {
+                "type": "Anforderungsforschung",
+                "percent": 15
+              },
+              {
+                "type": "Tests und Qualitätssicherung",
+                "percent": 8
+              },
+              {
+                "type": "Architekturdesign",
+                "percent": 7
+              },
+              {
+                "type": "Einrichtung der Bereitstellung und Umgebung",
+                "percent": 6
+              },
+              {
+                "type": "UI/UX-Design",
+                "percent": 45
+              },
+              {
+                "type": "Integrationen von Drittanbietern",
+                "percent": 3
+              },
+              {
+                "type": "Frontend-Entwicklung",
+                "percent": 40
+              },
+              {
+                "type": "Backend-Entwicklung",
+                "percent": 30
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "CRM-System-für-Krypto-Produkte",
+        "category": "CRM",
+        "img": "/assets/images/temperary_image.png",
+        "isInDevelopment": false,
+        "tags": ["CRM", "Automatisierung", "Integrationen", "Analytik", "SaaS", "Workflow-Management"],
+        "preview": {
+          "title": [
+            {
+              "text": "CRM-System ",
+              "highlight": true
+            },
+            {
+              "text": "für Kryptoprodukte",
+              "highlight": false
+            }
+          ],
+          "shortDescription": "Ein zentralisiertes CRM-System, das Daten von einer Krypto-Börse, einer Handelsplattform und einem Admin-Panel vereint, um Benutzer, Transaktionen und betriebliche Arbeitsabläufe zu verwalten."
+        },
+        "page": {
+          "title": [
+            {
+              "text": "CRM-System ",
+              "highlight": true
+            },
+            {
+              "text": "für Kryptoprodukte",
+              "highlight": false
+            }
+          ],
+          "img": "/assets/images/temperary_image.png",
+          "description": "Ein zentralisiertes CRM-System, das Daten von einer Krypto-Börse, einer Handelsplattform und einem Admin-Panel vereint, um Benutzer, Transaktionen und betriebliche Arbeitsabläufe zu verwalten.",
+          "website": {
+            "label": "abra.agency.com",
+            "url": "https://abra.agency/"
+          },
+          "metrics": [
+            {
+              "title": "Dienstleistungen",
+              "label": "UX/UI-Design, Webentwicklung"
+            },
+            {
+              "title": "Lieferzeit",
+              "label": "6 Monate"
+            },
+            {
+              "title": "Einführungsjahr",
+              "label": "2022"
+            }
+          ],
+          "description_subsection": {
+            "title": "Beschreibung",
+            "list": [
+              {
+                "icon": "checklist",
+                "title": "Aufgaben",
+                "list": [
+                  "Führen Sie externe und interne Optimierungen für weitere Werbung bei Google durch.",
+                  "Richten Sie praktische Filter und Sortierungen für Käufer ein.",
+                  "Präsentieren Sie Produkte im Internet durch ein schlichtes Design, bei dem das Angebot selbst im Mittelpunkt steht."
+                ]
+              },
+              {
+                "icon": "extension",
+                "title": "Lösung",
+                "list": [
+                  "Entwicklung einer Website mit einzigartigem Design und Funktionalität eines Online-Shops, die eine intuitive und schnellstmögliche Navigation durch alle Bereiche ermöglicht;",
+                  "Erstellt eine sorgfältig durchdachte Struktur von Menüabschnitten, praktisches Filtern, Sortieren und Bestellen;",
+                  "Führte eine Reihe von Arbeiten zur externen und internen Optimierung durch, um die Website in den organischen Suchergebnissen von Google weiter zu bewerben."
+                ]
+              },
+              {
+                "icon": "settings_ethernet",
+                "title": "Projektfunktionalität",
+                "list": [
+                  "Praktisches Bedienfeld vor Ort;",
+                  "Site-Suche und Filterung von Produkten nach allen Merkmalen;",
+                  "Feedback-Formular, Produktbestellformular, Warenkorb;",
+                  "Möglichkeit zur Auswahl der Liefer- und Zahlungsmethoden."
+                ]
+              }
+            ]
+          },
+          "time_breakdown_subsection": {
+            "title": [
+              {
+                "text": "Zeit ",
+                "highlight": false
+              },
+              {
+                "text": "Abbauen",
+                "highlight": true
+              }
+            ],
+            "list": [
+              {
+                "type": "Anforderungsforschung",
+                "percent": 15
+              },
+              {
+                "type": "Tests und Qualitätssicherung",
+                "percent": 8
+              },
+              {
+                "type": "Architekturdesign",
+                "percent": 7
+              },
+              {
+                "type": "Einrichtung der Bereitstellung und Umgebung",
+                "percent": 6
+              },
+              {
+                "type": "UI/UX-Design",
+                "percent": 45
+              },
+              {
+                "type": "Integrationen von Drittanbietern",
+                "percent": 3
+              },
+              {
+                "type": "Frontend-Entwicklung",
+                "percent": 40
+              },
+              {
+                "type": "Backend-Entwicklung",
+                "percent": 30
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Logistik-Produkt-Landingpage",
+        "category": "Armaturenbrett",
+        "img": "/assets/images/temperary_image.png",
+        "isInDevelopment": false,
+        "tags": ["CRM", "Automatisierung", "Integrationen", "Analytik", "SaaS", "Workflow-Management"],
+        "preview": {
+          "title": [
+            {
+              "text": "Logistikprodukt ",
+              "highlight": true
+            },
+            {
+              "text": "Landingpage",
+              "highlight": false
+            }
+          ],
+          "shortDescription": "Eine Landingpage mit hoher Conversion-Rate für ein Logistik-Webprodukt, die Wertversprechen, Hauptfunktionen und Geschäftsvorteile klar kommuniziert."
+        },
+        "page": {
+          "title": [
+            {
+              "text": "Logistikprodukt ",
+              "highlight": true
+            },
+            {
+              "text": "Landingpage",
+              "highlight": false
+            }
+          ],
+          "img": "/assets/images/temperary_image.png",
+          "description": "Eine Landingpage mit hoher Conversion-Rate für ein Logistik-Webprodukt, die Wertversprechen, Hauptfunktionen und Geschäftsvorteile klar kommuniziert.",
+          "website": {
+            "label": "abra.agency.com",
+            "url": "https://abra.agency/"
+          },
+          "metrics": [
+            {
+              "title": "Dienstleistungen",
+              "label": "UX/UI-Design, Webentwicklung"
+            },
+            {
+              "title": "Lieferzeit",
+              "label": "6 Monate"
+            },
+            {
+              "title": "Einführungsjahr",
+              "label": "2022"
+            }
+          ],
+          "description_subsection": {
+            "title": "Beschreibung",
+            "list": [
+              {
+                "icon": "checklist",
+                "title": "Aufgaben",
+                "list": [
+                  "Führen Sie externe und interne Optimierungen für weitere Werbung bei Google durch.",
+                  "Richten Sie praktische Filter und Sortierungen für Käufer ein.",
+                  "Präsentieren Sie Produkte im Internet durch ein schlichtes Design, bei dem das Angebot selbst im Mittelpunkt steht."
+                ]
+              },
+              {
+                "icon": "extension",
+                "title": "Lösung",
+                "list": [
+                  "Entwicklung einer Website mit einzigartigem Design und Funktionalität eines Online-Shops, die eine intuitive und schnellstmögliche Navigation durch alle Bereiche ermöglicht;",
+                  "Erstellt eine sorgfältig durchdachte Struktur von Menüabschnitten, praktisches Filtern, Sortieren und Bestellen;",
+                  "Führte eine Reihe von Arbeiten zur externen und internen Optimierung durch, um die Website in den organischen Suchergebnissen von Google weiter zu bewerben."
+                ]
+              },
+              {
+                "icon": "settings_ethernet",
+                "title": "Projektfunktionalität",
+                "list": [
+                  "Praktisches Bedienfeld vor Ort;",
+                  "Site-Suche und Filterung von Produkten nach allen Merkmalen;",
+                  "Feedback-Formular, Produktbestellformular, Warenkorb;",
+                  "Möglichkeit zur Auswahl der Liefer- und Zahlungsmethoden."
+                ]
+              }
+            ]
+          },
+          "time_breakdown_subsection": {
+            "title": [
+              {
+                "text": "Zeit ",
+                "highlight": false
+              },
+              {
+                "text": "Abbauen",
+                "highlight": true
+              }
+            ],
+            "list": [
+              {
+                "type": "Anforderungsforschung",
+                "percent": 15
+              },
+              {
+                "type": "Tests und Qualitätssicherung",
+                "percent": 8
+              },
+              {
+                "type": "Architekturdesign",
+                "percent": 7
+              },
+              {
+                "type": "Einrichtung der Bereitstellung und Umgebung",
+                "percent": 6
+              },
+              {
+                "type": "UI/UX-Design",
+                "percent": 45
+              },
+              {
+                "type": "Integrationen von Drittanbietern",
+                "percent": 3
+              },
+              {
+                "type": "Frontend-Entwicklung",
+                "percent": 40
+              },
+              {
+                "type": "Backend-Entwicklung",
+                "percent": 30
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Anwendung zur Optimierung der Containerzustellung",
+        "category": "Mobile App",
+        "img": "/assets/images/temperary_image.png",
+        "isInDevelopment": false,
+        "tags": ["CRM", "Automatisierung", "Integrationen", "Analytik", "SaaS", "Workflow-Management"],
+        "preview": {
+          "title": [
+            {
+              "text": "Containerlieferung ",
+              "highlight": true
+            },
+            {
+              "text": "Optimierungsanwendung",
+              "highlight": false
+            }
+          ],
+          "shortDescription": "Eine Logistikanwendung zur Optimierung der Containerlieferung durch verbesserte Routenplanung, Reduzierung der Betriebskosten und Vereinfachung der Frachtkoordination."
+        },
+        "page": {
+          "title": [
+            {
+              "text": "Containerlieferung ",
+              "highlight": true
+            },
+            {
+              "text": "Optimierungsanwendung",
+              "highlight": false
+            }
+          ],
+          "img": "/assets/images/temperary_image.png",
+          "description": "Eine Logistikanwendung zur Optimierung der Containerlieferung durch verbesserte Routenplanung, Reduzierung der Betriebskosten und Vereinfachung der Frachtkoordination.",
+          "website": {
+            "label": "abra.agency.com",
+            "url": "https://abra.agency/"
+          },
+          "metrics": [
+            {
+              "title": "Dienstleistungen",
+              "label": "UX/UI-Design, Webentwicklung"
+            },
+            {
+              "title": "Lieferzeit",
+              "label": "6 Monate"
+            },
+            {
+              "title": "Einführungsjahr",
+              "label": "2022"
+            }
+          ],
+          "description_subsection": {
+            "title": "Beschreibung",
+            "list": [
+              {
+                "icon": "checklist",
+                "title": "Aufgaben",
+                "list": [
+                  "Führen Sie externe und interne Optimierungen für weitere Werbung bei Google durch.",
+                  "Richten Sie praktische Filter und Sortierungen für Käufer ein.",
+                  "Präsentieren Sie Produkte im Internet durch ein schlichtes Design, bei dem das Angebot selbst im Mittelpunkt steht."
+                ]
+              },
+              {
+                "icon": "extension",
+                "title": "Lösung",
+                "list": [
+                  "Entwicklung einer Website mit einzigartigem Design und Funktionalität eines Online-Shops, die eine intuitive und schnellstmögliche Navigation durch alle Bereiche ermöglicht;",
+                  "Erstellt eine sorgfältig durchdachte Struktur von Menüabschnitten, praktisches Filtern, Sortieren und Bestellen;",
+                  "Führte eine Reihe von Arbeiten zur externen und internen Optimierung durch, um die Website in den organischen Suchergebnissen von Google weiter zu bewerben."
+                ]
+              },
+              {
+                "icon": "settings_ethernet",
+                "title": "Projektfunktionalität",
+                "list": [
+                  "Praktisches Bedienfeld vor Ort;",
+                  "Site-Suche und Filterung von Produkten nach allen Merkmalen;",
+                  "Feedback-Formular, Produktbestellformular, Warenkorb;",
+                  "Möglichkeit zur Auswahl der Liefer- und Zahlungsmethoden."
+                ]
+              }
+            ]
+          },
+          "time_breakdown_subsection": {
+            "title": [
+              {
+                "text": "Zeit ",
+                "highlight": false
+              },
+              {
+                "text": "Abbauen",
+                "highlight": true
+              }
+            ],
+            "list": [
+              {
+                "type": "Anforderungsforschung",
+                "percent": 15
+              },
+              {
+                "type": "Tests und Qualitätssicherung",
+                "percent": 8
+              },
+              {
+                "type": "Architekturdesign",
+                "percent": 7
+              },
+              {
+                "type": "Einrichtung der Bereitstellung und Umgebung",
+                "percent": 6
+              },
+              {
+                "type": "UI/UX-Design",
+                "percent": 45
+              },
+              {
+                "type": "Integrationen von Drittanbietern",
+                "percent": 3
+              },
+              {
+                "type": "Frontend-Entwicklung",
+                "percent": 40
+              },
+              {
+                "type": "Backend-Entwicklung",
+                "percent": 30
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Podcast-Website",
+        "category": "Armaturenbrett",
+        "img": "/assets/images/temperary_image.png",
+        "isInDevelopment": true,
+        "tags": ["CRM", "Automatisierung", "Integrationen", "Analytik", "SaaS", "Workflow-Management"],
+        "preview": {
+          "title": [
+            {
+              "text": "Podcast ",
+              "highlight": true
+            },
+            {
+              "text": "Webseite",
+              "highlight": false
+            }
+          ],
+          "shortDescription": "Eine mehrseitige Website für ein Podcast-Projekt mit Episodenlisten, Medienwiedergabe und strukturierten Inhalten für Publikumswachstum und -einbindung."
+        },
+        "page": {
+          "title": [
+            {
+              "text": "Podcast ",
+              "highlight": true
+            },
+            {
+              "text": "Webseite",
+              "highlight": false
+            }
+          ],
+          "img": "/assets/images/temperary_image.png",
+          "description": "Eine mehrseitige Website für ein Podcast-Projekt mit Episodenlisten, Medienwiedergabe und strukturierten Inhalten für Publikumswachstum und -einbindung.",
+          "website": {
+            "label": "abra.agency.com",
+            "url": "https://abra.agency/"
+          },
+          "metrics": [
+            {
+              "title": "Dienstleistungen",
+              "label": "UX/UI-Design, Webentwicklung"
+            },
+            {
+              "title": "Lieferzeit",
+              "label": "6 Monate"
+            },
+            {
+              "title": "Einführungsjahr",
+              "label": "2022"
+            }
+          ],
+          "description_subsection": {
+            "title": "Beschreibung",
+            "list": [
+              {
+                "icon": "checklist",
+                "title": "Aufgaben",
+                "list": [
+                  "Führen Sie externe und interne Optimierungen für weitere Werbung bei Google durch.",
+                  "Richten Sie praktische Filter und Sortierungen für Käufer ein.",
+                  "Präsentieren Sie Produkte im Internet durch ein schlichtes Design, bei dem das Angebot selbst im Mittelpunkt steht."
+                ]
+              },
+              {
+                "icon": "extension",
+                "title": "Lösung",
+                "list": [
+                  "Entwicklung einer Website mit einzigartigem Design und Funktionalität eines Online-Shops, die eine intuitive und schnellstmögliche Navigation durch alle Bereiche ermöglicht;",
+                  "Erstellt eine sorgfältig durchdachte Struktur von Menüabschnitten, praktisches Filtern, Sortieren und Bestellen;",
+                  "Führte eine Reihe von Arbeiten zur externen und internen Optimierung durch, um die Website in den organischen Suchergebnissen von Google weiter zu bewerben."
+                ]
+              },
+              {
+                "icon": "settings_ethernet",
+                "title": "Projektfunktionalität",
+                "list": [
+                  "Praktisches Bedienfeld vor Ort;",
+                  "Site-Suche und Filterung von Produkten nach allen Merkmalen;",
+                  "Feedback-Formular, Produktbestellformular, Warenkorb;",
+                  "Möglichkeit zur Auswahl der Liefer- und Zahlungsmethoden."
+                ]
+              }
+            ]
+          },
+          "time_breakdown_subsection": {
+            "title": [
+              {
+                "text": "Zeit ",
+                "highlight": false
+              },
+              {
+                "text": "Abbauen",
+                "highlight": true
+              }
+            ],
+            "list": [
+              {
+                "type": "Anforderungsforschung",
+                "percent": 15
+              },
+              {
+                "type": "Tests und Qualitätssicherung",
+                "percent": 8
+              },
+              {
+                "type": "Architekturdesign",
+                "percent": 7
+              },
+              {
+                "type": "Einrichtung der Bereitstellung und Umgebung",
+                "percent": 6
+              },
+              {
+                "type": "UI/UX-Design",
+                "percent": 45
+              },
+              {
+                "type": "Integrationen von Drittanbietern",
+                "percent": 3
+              },
+              {
+                "type": "Frontend-Entwicklung",
+                "percent": 40
+              },
+              {
+                "type": "Backend-Entwicklung",
+                "percent": 30
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Reisebuchungsantrag",
+        "category": "Mobile App",
+        "img": "/assets/images/temperary_image.png",
+        "isInDevelopment": true,
+        "tags": ["CRM", "Automatisierung", "Integrationen", "Analytik", "SaaS", "Workflow-Management"],
+        "preview": {
+          "title": [
+            {
+              "text": "Reisebuchung ",
+              "highlight": true
+            },
+            {
+              "text": "Anwendung",
+              "highlight": false
+            }
+          ],
+          "shortDescription": "Eine Webanwendung für ein Reisebüro, die den Kauf von Flugtickets und Hotelreservierungen über eine einheitliche und benutzerfreundliche Buchungsoberfläche ermöglicht."
+        },
+        "page": {
+          "title": [
+            {
+              "text": "Reisebuchung ",
+              "highlight": true
+            },
+            {
+              "text": "Anwendung",
+              "highlight": false
+            }
+          ],
+          "img": "/assets/images/temperary_image.png",
+          "description": "Eine Webanwendung für ein Reisebüro, die den Kauf von Flugtickets und Hotelreservierungen über eine einheitliche und benutzerfreundliche Buchungsoberfläche ermöglicht.",
+          "website": {
+            "label": "abra.agency.com",
+            "url": "https://abra.agency/"
+          },
+          "metrics": [
+            {
+              "title": "Dienstleistungen",
+              "label": "UX/UI-Design, Webentwicklung"
+            },
+            {
+              "title": "Lieferzeit",
+              "label": "6 Monate"
+            },
+            {
+              "title": "Einführungsjahr",
+              "label": "2022"
+            }
+          ],
+          "description_subsection": {
+            "title": "Beschreibung",
+            "list": [
+              {
+                "icon": "checklist",
+                "title": "Aufgaben",
+                "list": [
+                  "Führen Sie externe und interne Optimierungen für weitere Werbung bei Google durch.",
+                  "Richten Sie praktische Filter und Sortierungen für Käufer ein.",
+                  "Präsentieren Sie Produkte im Internet durch ein schlichtes Design, bei dem das Angebot selbst im Mittelpunkt steht."
+                ]
+              },
+              {
+                "icon": "extension",
+                "title": "Lösung",
+                "list": [
+                  "Entwicklung einer Website mit einzigartigem Design und Funktionalität eines Online-Shops, die eine intuitive und schnellstmögliche Navigation durch alle Bereiche ermöglicht;",
+                  "Erstellt eine sorgfältig durchdachte Struktur von Menüabschnitten, praktisches Filtern, Sortieren und Bestellen;",
+                  "Führte eine Reihe von Arbeiten zur externen und internen Optimierung durch, um die Website in den organischen Suchergebnissen von Google weiter zu bewerben."
+                ]
+              },
+              {
+                "icon": "settings_ethernet",
+                "title": "Projektfunktionalität",
+                "list": [
+                  "Praktisches Bedienfeld vor Ort;",
+                  "Site-Suche und Filterung von Produkten nach allen Merkmalen;",
+                  "Feedback-Formular, Produktbestellformular, Warenkorb;",
+                  "Möglichkeit zur Auswahl der Liefer- und Zahlungsmethoden."
+                ]
+              }
+            ]
+          },
+          "time_breakdown_subsection": {
+            "title": [
+              {
+                "text": "Zeit ",
+                "highlight": false
+              },
+              {
+                "text": "Abbauen",
+                "highlight": true
+              }
+            ],
+            "list": [
+              {
+                "type": "Anforderungsforschung",
+                "percent": 15
+              },
+              {
+                "type": "Tests und Qualitätssicherung",
+                "percent": 8
+              },
+              {
+                "type": "Architekturdesign",
+                "percent": 7
+              },
+              {
+                "type": "Einrichtung der Bereitstellung und Umgebung",
+                "percent": 6
+              },
+              {
+                "type": "UI/UX-Design",
+                "percent": 45
+              },
+              {
+                "type": "Integrationen von Drittanbietern",
+                "percent": 3
+              },
+              {
+                "type": "Frontend-Entwicklung",
+                "percent": 40
+              },
+              {
+                "type": "Backend-Entwicklung",
+                "percent": 30
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "Blog-Plattform",
+        "category": "Mobile App",
+        "img": "/assets/images/temperary_image.png",
+        "isInDevelopment": false,
+        "tags": ["CRM", "Automatisierung", "Integrationen", "Analytik", "SaaS", "Workflow-Management"],
+        "preview": {
+          "title": [
+            {
+              "text": "Blog ",
+              "highlight": true
+            },
+            {
+              "text": "Plattform",
+              "highlight": false
+            }
+          ],
+          "shortDescription": "Eine leichtgewichtige Blog-Plattform, die sich auf die Veröffentlichung von Inhalten, Lesbarkeit und einfache Inhaltsverwaltung für Autoren und Redakteure konzentriert."
+        },
+        "page": {
+          "title": [
+            {
+              "text": "Blog ",
+              "highlight": true
+            },
+            {
+              "text": "Plattform",
+              "highlight": false
+            }
+          ],
+          "img": "/assets/images/temperary_image.png",
+          "description": "Eine leichtgewichtige Blog-Plattform, die sich auf die Veröffentlichung von Inhalten, Lesbarkeit und einfache Inhaltsverwaltung für Autoren und Redakteure konzentriert.",
+          "website": {
+            "label": "abra.agency.com",
+            "url": "https://abra.agency/"
+          },
+          "metrics": [
+            {
+              "title": "Dienstleistungen",
+              "label": "UX/UI-Design, Webentwicklung"
+            },
+            {
+              "title": "Lieferzeit",
+              "label": "6 Monate"
+            },
+            {
+              "title": "Einführungsjahr",
+              "label": "2022"
+            }
+          ],
+          "description_subsection": {
+            "title": "Beschreibung",
+            "list": [
+              {
+                "icon": "checklist",
+                "title": "Aufgaben",
+                "list": [
+                  "Führen Sie externe und interne Optimierungen für weitere Werbung bei Google durch.",
+                  "Richten Sie praktische Filter und Sortierungen für Käufer ein.",
+                  "Präsentieren Sie Produkte im Internet durch ein schlichtes Design, bei dem das Angebot selbst im Mittelpunkt steht."
+                ]
+              },
+              {
+                "icon": "extension",
+                "title": "Lösung",
+                "list": [
+                  "Entwicklung einer Website mit einzigartigem Design und Funktionalität eines Online-Shops, die eine intuitive und schnellstmögliche Navigation durch alle Bereiche ermöglicht;",
+                  "Erstellt eine sorgfältig durchdachte Struktur von Menüabschnitten, praktisches Filtern, Sortieren und Bestellen;",
+                  "Führte eine Reihe von Arbeiten zur externen und internen Optimierung durch, um die Website in den organischen Suchergebnissen von Google weiter zu bewerben."
+                ]
+              },
+              {
+                "icon": "settings_ethernet",
+                "title": "Projektfunktionalität",
+                "list": [
+                  "Praktisches Bedienfeld vor Ort;",
+                  "Site-Suche und Filterung von Produkten nach allen Merkmalen;",
+                  "Feedback-Formular, Produktbestellformular, Warenkorb;",
+                  "Möglichkeit zur Auswahl der Liefer- und Zahlungsmethoden."
+                ]
+              }
+            ]
+          },
+          "time_breakdown_subsection": {
+            "title": [
+              {
+                "text": "Zeit ",
+                "highlight": false
+              },
+              {
+                "text": "Abbauen",
+                "highlight": true
+              }
+            ],
+            "list": [
+              {
+                "type": "Anforderungsforschung",
+                "percent": 15
+              },
+              {
+                "type": "Tests und Qualitätssicherung",
+                "percent": 8
+              },
+              {
+                "type": "Architekturdesign",
+                "percent": 7
+              },
+              {
+                "type": "Einrichtung der Bereitstellung und Umgebung",
+                "percent": 6
+              },
+              {
+                "type": "UI/UX-Design",
+                "percent": 45
+              },
+              {
+                "type": "Integrationen von Drittanbietern",
+                "percent": 3
+              },
+              {
+                "type": "Frontend-Entwicklung",
+                "percent": 40
+              },
+              {
+                "type": "Backend-Entwicklung",
+                "percent": 30
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "key-features_section": {
+    "title": [
+      { "text": "Ein Ansatz, ", "highlight": true },
+      { "text": "der ", "highlight": false },
+      { "text": "vorhersehbare ", "highlight": true },
+      { "text": "Ergebnisse ", "highlight": false },
+      { "text": "liefert", "highlight": true }
+    ],
+    "description": "Wir strukturieren unsere Arbeit so, dass das Produkt verständlich, steuerbar und aus geschäftlicher Sicht effektiv ist — in allen Phasen.",
+    "features": {
+      "1": {
+        "title": "Strategische Planung",
+        "description": "Wir definieren Ziele, Risiken und Anforderungen noch vor Beginn der Entwicklung."
+      },
+      "2": {
+        "title": "Lösungen für konkrete Aufgaben",
+        "description": "Architektur und Funktionalität sind gezielt auf Ihre geschäftlichen Anforderungen ausgerichtet."
+      },
+      "3": {
+        "title": "Nutzerzentrierter Ansatz",
+        "description": "Wir gestalten Logik und Schnittstellen so, dass Nutzer ihre Ziele schnell und einfach erreichen."
+      },
+      "4": {
+        "title": "Aktuelle Technologien",
+        "description": "Wir nutzen Tools, die Stabilität, Sicherheit und Skalierbarkeit gewährleisten."
+      },
+      "5": {
+        "title": "Einhaltung von Deadlines",
+        "description": "Wir arbeiten in Phasen mit transparenten Fristen und Fortschrittskontrolle."
+      }
+    }
+  },
+  "stack_section": {
+    "title": [
+      { "text": "Technologie-", "highlight": false },
+      { "text": "Stack", "highlight": true }
+    ],
+    "description": "Wir setzen Technologien ein, die sich in kommerziellen Projekten bewährt haben. Dieser Ansatz ermöglicht stabile Lösungen, bereit für Skalierung, Integrationen und langfristigen Support."
+  },
+  "team_section": {
+    "title": [
+      { "text": "Expertise ", "highlight": true },
+      { "text": "auf die Sie sich verlassen können", "highlight": false }
+    ],
+    "description": "An unseren Projekten arbeiten Spezialisten mit Erfahrung in kommerzieller Entwicklung, Produkt- und Unternehmenslösungen. Wir legen Wert auf systematisches Vorgehen, klare Kommunikation und Verantwortung für getroffene Entscheidungen.",
+    "members": {
+      "vladyslav": { "name": "Vladyslav", "role": "Backend-Entwickler" },
+      "illia": { "name": "Illia", "role": "QA-Tester" },
+      "marina": { "name": "Marina", "role": "UI/UX-Designer" },
+      "katya": { "name": "Katya", "role": "Vertriebsleiterin" },
+      "karina": { "name": "Karina", "role": "UI/UX-Designer" },
+      "olga": { "name": "Olga", "role": "UI/UX-Designer" },
+      "ruslan": { "name": "Ruslan", "role": "Frontend-Entwickler" },
+      "elina": { "name": "Elina", "role": "Frontend-Entwickler" }
+    }
+  },
+  "projects_section": {
+    "title": [
+      { "text": "Echte ", "highlight": true },
+      { "text": "Cases und ", "highlight": false },
+      { "text": "realisierte ", "highlight": true },
+      { "text": "Produkte", "highlight": false }
+    ],
+    "description": "Projekte, in denen wir konkrete geschäftliche Herausforderungen gelöst haben: Services eingeführt, Kennzahlen verbessert und Unternehmen mithilfe von Technologie wachsen lassen.",
+    "btn": "Alle ansehen"
+  },
+  "btns": {
+    "calculate_price": "Preis berechnen",
+    "booking_meeting": "Buchungstreffen",
+    "book_consultation": "Buchen Sie einen Beratungstermin",
+    "contact_us": "Kontaktieren Sie uns"
+  },
+  "calculator": {
+    "siteType": {
+      "label": "Seitentyp",
+      "options": {
+        "landing": "Landing Page",
+        "showcase": "Showcase-Website",
+        "ecommerce": "E-Commerce",
+        "corporate": "Firmenwebseite"
+      }
+    },
+    "design": {
+      "label": "Design",
+      "options": {
+        "none": "Keine",
+        "standard": "Vorlage",
+        "medium": "Prototyp + Flussdiagramme",
+        "advanced": "Einzigartige UI/UX"
+      }
+    },
+    "backend": {
+      "label": "Backend",
+      "options": {
+        "none": "Keine",
+        "standard": "Basis (+€800–€2500)",
+        "medium": "Mittel (+€2000–€8000)",
+        "advanced": "Fortgeschritten (+€10000+)"
+      }
+    },
+    "pagesCount": {
+      "label": "Seitenanzahl",
+      "options": {
+        "standard": "1–5",
+        "medium": "6–20",
+        "advanced": "20+"
+      }
+    },
+    "revisions": {
+      "label": "Zusätzliche Revisionen",
+      "options": {
+        "none": "Keine",
+        "standard": "1–2 (+€0–€300)",
+        "extended": "3–5 (+€300–€1000)",
+        "unlimited": "Unbegrenzt (+€1000+)"
+      }
+    },
+    "integrations": {
+      "label": "Integrationen",
+      "options": {
+        "none": "Keine",
+        "base": "Zahlungen (+€200–€800)",
+        "standard": "CRM (+€500–€2000)"
+      }
+    },
+    "hasSEO": "Erweitertes SEO",
+    "hasMultilingual": "Mehrsprachig",
+    "hasSupport": "Technischer Support",
+    "hasExpedited": "Beschleunigte Lieferung"
+  },
+  "plan_section": {
+    "title": [
+      { "text": "Wähle", "highlight": false },
+      { "text": " Deinen ", "highlight": true },
+      { "text": "Perfekten Plan", "highlight": false }
+    ],
+    "information": "Alle Pakete beinhalten die Lieferung des Quellcodes, Unterstützung bei der Bereitstellung und eine grundlegende Schulung. Benötigen Sie etwas anderes?",
+    "btn": "Lass uns reden.",
+    "description": "Ganzheitliche Webentwicklungslösungen, individuell auf Ihre Bedürfnisse zugeschnitten. Von einfachen Landingpages bis hin zu komplexen Unternehmensanwendungen.",
+    "most_popular": "Am beliebtesten",
+    "delivery": "Lieferzeit",
+    "cases": [
+      {
+        "plan": "Basic",
+        "subtitle": "Ideal für kleine Unternehmen und Start-ups, die online präsent sein möchten",
+        "title": "Preis ab",
+        "includes": [
+          "Landingpage oder kleine Website",
+          "Individuelles Design passend zu Ihrer Marke",
+          "Professionelle Frontend-Entwicklung",
+          "Grundlegende SEO-Einrichtung und Optimierung",
+          "Responsives Design für Mobilgeräte",
+          "Schnelle Ladezeiten"
+        ],
+        "delivery": "2–3 Wochen",
+        "btn": "Jetzt starten"
+      },
+      {
+        "plan": "Pro",
+        "subtitle": "Umfassende Lösung für wachsende Unternehmen mit erweiterten Anforderungen",
+        "title": "Preis ab",
+        "includes": [
+          "Unternehmenswebsite oder Webanwendung",
+          "Kompletter UX/UI-Designprozess",
+          "Full-Stack-Entwicklung (Frontend + Backend)",
+          "Erweiterte SEO-Optimierung",
+          "CMS-Integration für einfache Inhaltsverwaltung",
+          "Analyse- und Performance-Tracking",
+          "Priorisierter Support für 30 Tage"
+        ],
+        "delivery": "6–8 Wochen",
+        "btn": "Projekt starten"
+      },
+      {
+        "plan": "Individuell",
+        "subtitle": "Enterprise-Lösungen für komplexe und skalierbare digitale Produkte",
+        "title": "Individuelles Angebot",
+        "includes": [
+          "Komplexe oder hoch skalierbare Projekte",
+          "Individuelle Architektur und Technologie-Stack",
+          "Integration von Drittanbieter-APIs",
+          "Erweiterte SEO- und Marketing-Tools",
+          "Langfristiger Support und Wartung",
+          "Dedizierter Projektmanager",
+          "Skalierbarkeits- und Sicherheitsaudit"
+        ],
+        "delivery": "Individueller Zeitplan",
+        "btn": "Kontakt aufnehmen"
+      }
+    ]
+  },
+  "timeline_section": {
+    "title": [
+      { "text": "Projekt", "highlight": false },
+      { "text": " Zeitplan", "highlight": true }
+    ],
+    "description": "Ein typischer Projektzeitplan vom Start bis zum Launch. Die genaue Dauer kann je nach Komplexität und Umfang des Projekts variieren.",
+    "cases": [
+      {
+        "title": "Research & Planning",
+        "time": "1 Woche",
+        "text": "Anforderungsanalyse, Wettbewerbsanalyse und Erstellung einer Projekt-Roadmap"
+      },
+      {
+        "title": "Design",
+        "time": "1–2 Wochen",
+        "text": "Wireframes, Mockups und interaktive Prototypen zur Freigabe"
+      },
+      {
+        "title": "Development",
+        "time": "2–4 Wochen",
+        "text": "Frontend- und Backend-Implementierung mit regelmäßigen Fortschrittsupdates"
+      },
+      {
+        "title": "Testing & SEO",
+        "time": "1 Woche",
+        "text": "Qualitätssicherung, Fehlerbehebung, Performance-Optimierung und SEO-Einrichtung"
+      },
+      {
+        "title": "Launch",
+        "time": "Letzter Meilenstein",
+        "text": "Bereitstellung in der Produktionsumgebung und Support nach dem Launch"
+      }
+    ]
+  },
+  "faq_section": {
+    "title": [
+      { "text": "Häufige", "highlight": false },
+      { "text": " Fragen", "highlight": true }
+    ],
+    "description": "Ein typischer Projektzeitplan vom Start bis zum Launch. Die genauen Zeiträume können je nach Komplexität und Umfang des Projekts variieren.",
+    "btn": "Kontaktieren Sie unser Team.",
+    "cases": [
+      {
+        "title": "Warum ist individuelle Entwicklung teuer?",
+        "text": "Individuelle Entwicklung erfordert erfahrene Fachkräfte, die viel Zeit investieren, um Ihre spezifischen Geschäftsanforderungen zu verstehen, eine maßgeschneiderte Lösung zu entwerfen, hochwertigen Code zu schreiben und einen reibungslosen Betrieb sicherzustellen. Im Gegensatz zu Templates erhalten Sie ein Produkt, das genau auf Ihre Ziele zugeschnitten ist, mit individuellen Funktionen, optimierter Performance und Skalierbarkeit. Die Investition spiegelt Expertise, Zeitaufwand und den langfristigen Mehrwert einer Lösung wider, die mit Ihrem Unternehmen wächst."
+      },
+      {
+        "title": "Wie lange dauert die Website-Entwicklung?",
+        "text": "Der Zeitrahmen hängt von der Projektkomplexität ab. Eine einfache Website benötigt in der Regel 2–3 Wochen, während eine umfangreiche Web-Applikation 6–9 Wochen erfordert. Dies umfasst Recherche, Design, Entwicklung, Tests und Launch. Wir strukturieren Projekte in klare Phasen mit regelmäßigen Updates, sodass Sie jederzeit den aktuellen Stand kennen. Eilprojekte sind mit angepassten Zeitplänen und Ressourcen möglich."
+      },
+      {
+        "title": "Was macht euch besser als Freelancer oder Templates?",
+        "text": "Templates bieten schnelle Lösungen, sind jedoch in der Anpassung eingeschränkt und begrenzen das Wachstum. Freelancer unterscheiden sich stark in Erfahrung und Verfügbarkeit. Wir stellen ein komplettes Team aus Designern, Entwicklern und QA-Testern bereit, das mit bewährten Prozessen, klarer Kommunikation und Verantwortung arbeitet. Sie erhalten Enterprise-Qualität, kontinuierlichen Support und einen Partner, der langfristig an Ihrem Erfolg interessiert ist."
+      },
+      {
+        "title": "Bietet ihr Support nach dem Launch an?",
+        "text": "Ja, selbstverständlich. Alle Projekte beinhalten Support nach dem Launch, um einen reibungslosen Übergang zu gewährleisten. Je nach Paket reicht dies von 30 Tagen Prioritäts-Support bis hin zu langfristigen Wartungsverträgen. Wir beheben Bugs, nehmen kleinere Anpassungen vor und beantworten Fragen. Für laufende Anforderungen bieten wir Retainer-Support mit festen Reaktionszeiten und regelmäßiger Wartung an."
+      },
+      {
+        "title": "Übernehmt ihr sowohl Frontend- als auch Backend-Entwicklung?",
+        "text": "Ja, wir sind ein Full-Stack-Entwicklungsstudio. Unser Team deckt alles ab — von UI-Design und Frontend-Entwicklung bis hin zu Backend-Architektur, Datenbankdesign, API-Entwicklung und Drittanbieter-Integrationen. Das bedeutet, Sie arbeiten während des gesamten Projekts mit einem Team zusammen und profitieren von nahtloser Integration, gleichbleibender Qualität und schnellerer Umsetzung ohne Koordinationsaufwand."
+      }
+    ]
+  }
+}
