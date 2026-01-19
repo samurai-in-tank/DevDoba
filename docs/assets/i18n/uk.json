@@ -889,5 +889,43 @@
         "text": "Так, ми студія повного циклу (full-stack). Наша команда займається всім: від дизайну інтерфейсу та frontend-розробки до backend-архітектури, проєктування баз даних, розробки API та інтеграції сторонніх сервісів. Це означає, що ви працюєте з однією командою протягом усього проєкту, отримуючи цілісну інтеграцію, стабільну якість і швидшу реалізацію без проблем координації."
       }
     ]
+  },
+  "project_time_breakdown": {
+    "list": {
+      "discovery": "Дослідження та Аналіз",
+      "project_planning": "Планування проекту",
+      "system_architecture_design": "Проєктування архітектури системи",
+      "ux_design": "UX-дизайн",
+      "ui_design": "UI-дизайн",
+      "wireframing": "Створення вайрфреймів",
+      "interactive_prototyping": "Інтерактивне прототипування",
+      "design_system": "Дизайн-система",
+      "frontend_development": "Фронтенд-розробка",
+      "responsive_layout": "Адаптивна верстка",
+      "backend_development": "Бекенд-розробка",
+      "api_integration": "Інтеграція API",
+      "database_design": "Проєктування бази даних",
+      "api_development": "Розробка API",
+      "testing_qa": "Тестування та QA",
+      "bug_fixing": "Виправлення помилок",
+      "cms_setup": "Налаштування CMS",
+      "multilingual_support": "Багатомовна підтримка (i18n)",
+      "performance_optimization": "Оптимізація продуктивності",
+      "dev_ops": "DevOps та інфраструктура",
+      "ci_cd_setup": "Налаштування CI/CD",
+      "security": "Безпека",
+      "deployment_launch": "Впровадження та запуск",
+      "post_launch_support": "Підтримка після запуску",
+      "seo_optimization": "SEO-оптимізація",
+      "accessibility_improvements": "Покращення доступності",
+      "security_hardening": "Зміцнення безпеки",
+      "project_management": "Управління проєктом",
+      "client_communication": "Комунікація з клієнтом",
+      "documentation": "Документація"
+    },
+    "tooltip": {
+      "hours_suffix": "годин",
+      "description": "Загальна кількість годин, витрачених на цю фазу"
+    }
   }
 }

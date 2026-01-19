@@ -900,5 +900,43 @@
         "text": "Ja, wir sind ein Full-Stack-Entwicklungsstudio. Unser Team deckt alles ab — von UI-Design und Frontend-Entwicklung bis hin zu Backend-Architektur, Datenbankdesign, API-Entwicklung und Drittanbieter-Integrationen. Das bedeutet, Sie arbeiten während des gesamten Projekts mit einem Team zusammen und profitieren von nahtloser Integration, gleichbleibender Qualität und schnellerer Umsetzung ohne Koordinationsaufwand."
       }
     ]
+  },
+  "project_time_breakdown": {
+    "list": {
+      "discovery": "Entdeckung & Recherche",
+      "project_planning": "Projektplanung",
+      "system_architecture_design": "Systemarchitektur-Design",
+      "ux_design": "UX-Design",
+      "ui_design": "UI-Design",
+      "wireframing": "Wireframing",
+      "interactive_prototyping": "Interaktives Prototyping",
+      "design_system": "Designsystem",
+      "frontend_development": "Frontend-Entwicklung",
+      "responsive_layout": "Responsives Layout",
+      "backend_development": "Backend-Entwicklung",
+      "api_integration": "API & Integrationen",
+      "database_design": "Datenbankdesign",
+      "api_development": "API-Entwicklung",
+      "testing_qa": "Tests & QA",
+      "bug_fixing": "Fehlerbehebung",
+      "cms_setup": "CMS-Setup",
+      "multilingual_support": "Mehrsprachige Unterstützung (i18n)",
+      "performance_optimization": "Leistungsoptimierung",
+      "dev_ops": "DevOps & Infrastruktur",
+      "ci_cd_setup": "CI/CD-Setup",
+      "security": "Sicherheit",
+      "deployment_launch": "Bereitstellung & Launch",
+      "post_launch_support": "Unterstützung nach dem Launch",
+      "seo_optimization": "SEO-Optimierung",
+      "accessibility_improvements": "Barrierefreiheitsverbesserungen",
+      "security_hardening": "Sicherheits-Härtung",
+      "project_management": "Projektmanagement",
+      "client_communication": "Kundenkommunikation",
+      "documentation": "Dokumentation"
+    },
+    "tooltip": {
+      "hours_suffix": "Stunden",
+      "description": "Gesamtstunden, die in dieser Phase verbracht wurden"
+    }
   }
 }

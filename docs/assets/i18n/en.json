@@ -1010,5 +1010,43 @@
         "text": "Yes, we're a full-stack development studio. Our team handles everything from user interface design and frontend development to backend architecture, database design, API development, and third-party integrations. This means you work with one team throughout the entire project, ensuring seamless integration, consistent quality, and faster delivery without coordination headaches."
       }
     ]
+  },
+  "project_time_breakdown": {
+    "list": {
+      "discovery": "Discovery & Research",
+      "project_planning": "Project Planning",
+      "system_architecture_design": "System Architecture Design",
+      "ux_design": "UX Design",
+      "ui_design": "UI Design",
+      "wireframing": "Wireframing",
+      "interactive_prototyping": "Interactive Prototyping",
+      "design_system": "Design System",
+      "frontend_development": "Frontend Development",
+      "responsive_layout": "Responsive Layout",
+      "backend_development": "Backend Development",
+      "api_integration": "API & Integrations",
+      "database_design": "Database Design",
+      "api_development": "API Development",
+      "testing_qa": "Testing & QA",
+      "bug_fixing": "Bug Fixing",
+      "cms_setup": "CMS Setup",
+      "multilingual_support": "Multilingual Support (i18n)",
+      "performance_optimization": "Performance Optimization",
+      "dev_ops": "DevOps & Infrastructure",
+      "ci_cd_setup": "CI/CD Setup",
+      "security": "Security",
+      "deployment_launch": "Deployment & Launch",
+      "post_launch_support": "Post-launch Support",
+      "seo_optimization": "SEO Optimization",
+      "accessibility_improvements": "Accessibility Improvements",
+      "security_hardening": "Security Hardening",
+      "project_management": "Project Management",
+      "client_communication": "Client Communication",
+      "documentation": "Documentation"
+    },
+    "tooltip": {
+      "hours_suffix": "hours",
+      "description": "Total hours spent on this phase"
+    }
   }
 }

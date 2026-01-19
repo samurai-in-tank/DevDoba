@@ -898,5 +898,43 @@
         "text": "Да, мы студия полного цикла (full-stack). Наша команда занимается всем: от дизайна интерфейсов и frontend-разработки до backend-архитектуры, проектирования баз данных, разработки API и интеграции сторонних сервисов. Это означает работу с одной командой на протяжении всего проекта, что обеспечивает целостную интеграцию, стабильное качество и более быструю реализацию без проблем с координацией."
       }
     ]
+  },
+  "project_time_breakdown": {
+    "list": {
+      "discovery": "Исследование и Анализ",
+      "project_planning": "Планирование проекта",
+      "system_architecture_design": "Проектирование архитектуры системы",
+      "ux_design": "UX-дизайн",
+      "ui_design": "UI-дизайн",
+      "wireframing": "Создание вайрфреймов",
+      "interactive_prototyping": "Интерактивное прототипирование",
+      "design_system": "Дизайн-система",
+      "frontend_development": "Фронтенд-разработка",
+      "responsive_layout": "Адаптивная верстка",
+      "backend_development": "Бэкенд-разработка",
+      "api_integration": "Интеграция API",
+      "database_design": "Проектирование базы данных",
+      "api_development": "Разработка API",
+      "testing_qa": "Тестирование и QA",
+      "bug_fixing": "Исправление ошибок",
+      "cms_setup": "Настройка CMS",
+      "multilingual_support": "Многоязычная поддержка (i18n)",
+      "performance_optimization": "Оптимизация производительности",
+      "dev_ops": "DevOps и инфраструктура",
+      "ci_cd_setup": "Настройка CI/CD",
+      "security": "Безопасность",
+      "deployment_launch": "Внедрение и запуск",
+      "post_launch_support": "Поддержка после запуска",
+      "seo_optimization": "SEO-оптимизация",
+      "accessibility_improvements": "Улучшение доступности",
+      "security_hardening": "Укрепление безопасности",
+      "project_management": "Управление проектом",
+      "client_communication": "Взаимодействие с клиентом",
+      "documentation": "Документация"
+    },
+    "tooltip": {
+      "hours_suffix": "часов",
+      "description": "Общее количество часов, потраченных на эту фазу"
+    }
   }
 }
